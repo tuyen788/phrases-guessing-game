@@ -1,0 +1,4 @@
+char *PhraseBank[] = {"Better Late (?) than Never","No Pain(1), No Gain", "Actions speak! louder than words",
+                 "Don't cry over spilt milk", "Don't judge a book by its cover",
+				 "It's not rocket science(2)", "Easy come, easy go",
+				 "Out of sight, out of mind", ""};
